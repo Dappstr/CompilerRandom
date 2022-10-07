@@ -9,7 +9,6 @@ enum {
     T_PLUS, // '+'
     T_MINUS, //'-'
     T_MULT, // '*'
-    T_DIVIDE // '/'
-
+    T_DIVIDE, // '/'
+    T_INTLIT // Integer literal
 };
-
